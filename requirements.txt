@@ -1,0 +1,9 @@
+requests
+django==3.2
+pytest
+pytest-pythonpath
+pytest-django
+djangorestframework
+djangorestframework-simplejwt
+pillow
+djoser
